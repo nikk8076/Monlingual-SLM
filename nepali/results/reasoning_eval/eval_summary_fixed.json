@@ -1,0 +1,15 @@
+{
+  "lang": "ne",
+  "results": {
+    "pretrained": {
+      "exact_match": 0.0,
+      "prefix_match": 0.0,
+      "mean_char_set_acc": 0.4483
+    },
+    "finetuned": {
+      "exact_match": 0.0275,
+      "prefix_match": 0.045,
+      "mean_char_set_acc": 0.2522
+    }
+  }
+}

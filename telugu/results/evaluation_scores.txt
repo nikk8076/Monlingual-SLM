@@ -1,0 +1,124 @@
+=== TELUGU MODEL EVALUATION REPORT ===
+Model Checkpoint: best_checkpoint.pth (Step 19,999)
+Architecture    : 6 Layers, d_model=512, n_heads=8, d_ff=2048, Vocab=16000
+
+1. INTRINSIC LANGUAGE MODELING METRICS (VALIDATION SET)
+--------------------------------------------------------------------------------
+Validation Cross-Entropy Loss : 7.0214
+Perplexity (PPL = exp(loss))   : 1120.39
+Bits-Per-Byte (BPB)            : 2.3331
+
+2. GENERATION QUALITY ACROSS TEMPERATURES (50 HELD-OUT TEST PREFIXES)
+--------------------------------------------------------------------------------
+[Greedy (T=0.0)]
+  Word-level ROUGE-L : 0.0398 ( 3.98%)
+  Char-level ROUGE-L : 0.2397 (23.97%)
+  chrF Score         : 7.55
+  BLEU-4 Score       : 1.17
+  Distinct-1         : 0.4273
+  Distinct-2         : 0.5338
+  Repetition Rate    : 0.3430
+
+[T=0.5]
+  Word-level ROUGE-L : 0.0544 ( 5.44%)
+  Char-level ROUGE-L : 0.2804 (28.04%)
+  chrF Score         : 11.32
+  BLEU-4 Score       : 1.55
+  Distinct-1         : 0.8373
+  Distinct-2         : 0.9745
+  Repetition Rate    : 0.0037
+
+[T=1.0]
+  Word-level ROUGE-L : 0.0346 ( 3.46%)
+  Char-level ROUGE-L : 0.2881 (28.81%)
+  chrF Score         : 13.27
+  BLEU-4 Score       : 1.20
+  Distinct-1         : 0.9753
+  Distinct-2         : 1.0000
+  Repetition Rate    : 0.0000
+
+[T=1.5]
+  Word-level ROUGE-L : 0.0255 ( 2.55%)
+  Char-level ROUGE-L : 0.2872 (28.72%)
+  chrF Score         : 15.16
+  BLEU-4 Score       : 1.21
+  Distinct-1         : 0.9947
+  Distinct-2         : 1.0000
+  Repetition Rate    : 0.0000
+
+3. QUALITATIVE GENERATION SAMPLES (3 DEDICATED PROMPTS)
+--------------------------------------------------------------------------------
+[Sample 1 Prompt]: భారతదేశం ఒక గొప్ప ప్రజాస్వామ్య దేశం మరియు ఇక్కడ అనేక భాషలు సంస్కృతులు ఉన్నాయి.
+  (Greedy (T=0.0)): ఈ విధంగా ఈ విధంగా ఈ విధంగా ఈ విధంగా ఈ విధంగా ఒక వ్యక్తి , ఈ విధంగా ఈ విధంగా ఈ వ్యక్తి , ఈ వ్యక్తి , ఈ వ్యక్తి , ఈ వ్యక్తి , ఈ వ్యక్తి , ఈ వ్యక్తి , ఈ వ్యక్తి , ఈ వ్యక్తి
+  (T=0.5): ఈ కుల శాస్త్ర ంలో భాషా , ప్రభుత్వ రంగా ల్లో కొన్ని ప్రభుత్వ ాలలో ( నేను ) ఈ గ్రంథ ంలో ఉన్న వ్యక్తి ని హిందూ దేశ ాల ద్వారా ఒక వ్యక్తి గా ఉన్న వి. ఈ సాహిత్య ంలో ఈ పత్రిక ల మధ్య ( ' ఏ
+  (T=1.0): జిల్లా ( 80 ). బి. డి. బి. . ఎం. ఎస్ పి. , వి. గిరి : 1, 10 / ( జన ) - ఒక , పీ స్ట్రి రీ స్, టి. శివాజీ - భా స్ భారతీయ ప్ర కాల మ్ || ప 7,
+  (T=1.5): 120 -0 8, , 199 - 19 ( సీ ian 100 ): ఇ వ పాలనా సు ప్రజలను రుచి ను వినిపించ ెను. కలి చేప డానికి. ఇంత శిక్ష ించుట ను; భూ రేఖ విజయాలు || 27 మత రస రాజు లలో దోహద పడతాయి. అది
+
+[Sample 2 Prompt]: తెలుగు ప్రాచీన మరియు సుసంపన్నమైన సాహిత్య సంపద కలిగిన భాష.
+  (Greedy (T=0.0)): ఈ గ్రంథ ము యొక్క విషయ ము యొక్క గ్రంథ ము యొక్క గ్రంథ ము యొక్క ; ఈ గ్రంథ ము = ఈ ; ఈ = ఈ ; ఈ = ఈ ; ఈ = ఈ ; ఈ = ఈ ; ఈ = = =
+  (T=0.5): ఇది కాల మునకు సంబంధించిన భాష ల వారు నే వారి క ారా సము యొక్క దేశ ము గల వు. కాని తరువాత నై మి యు ను, ఈ సంస్థను ఆ గ్రంథ మును నియమ ించుట నుండి యు న్నది. ఈ వ్యక్తి ని విశేష ములు గల దని
+  (T=1.0): మంత్రి కై చెప్ప టం బున ప్రేరణ చేసిన మొత్తంలో భూత మిత్ర ద్ గు డు, ఉదాహరణ పు టా త కొన్ని , నే ష్ఠా నాట ారణ సార స్ పనిచ బ్రహ్మ ' - దా ? హె ర మార్ ణు మన యే పూర్వ మై నికి
+  (T=1.5): వర్తన ను, శాస్త్ర మను రా ప్రభువు జాతి నీతి మంతు హిత్య ము బోధ ించుచు ని, పద్మ ను ఇన్ని ఆ కాలలో జబ్బు ఆకాశ ెడి స్వచ్ఛ రాజా 65 కాళ రుని పై బండి నిర్మాణ రచన బి రిగి స్తున్న క్రో తి నేషనల్ కార్పో రా సామ్రాజ్య
+
+[Sample 3 Prompt]: విద్య మరియు విజ్ఞానం మానవ జీవితాన్ని ఉన్నత శిఖరాలకు చేరుస్తాయి.
+  (Greedy (T=0.0)): ఒక వ్యక్తి , ఈ విధంగా ఈ విధంగా ఈ విధంగా ఈ విధంగా ఒక వ్యక్తి , ఈ విధంగా ఈ వ్యక్తి , ఈ వ్యక్తి , ఈ వ్యక్తి , ఈ వ్యక్తి , ఈ వ్యక్తి , ఈ వ్యక్తి , ఈ వ్యక్తి , ఈ వ్యక్తి
+  (T=0.5): సా గి యా డు లో నికి సంబంధించి ఆయా ప్రభుత్వ ాలలో ఇతర ప్రభుత్వ ంలో ఒక ప్రభుత్వ ంలో ఉన్న ఒక ప్రభుత్వ ంలో ఒక ప్రభుత్వ ంలో ఈ ప్రభుత్వ ంలో ఉన్న ఒక ప్రభుత్వ ంలో ఈ ప్రత్యేక మార్పు లు కూడా కూడా ఈ చేయ లే
+  (T=1.0): ఈ ఉన్నత పాఠశాల ( మూల సమితి - వి సారం అన్నది ) ఢిల్లీ లోని సంస్కృ త్వా లోని మహిళల దేశ ాల అభివృద్ధికి ఫీజు లు, కమిటీ లు ప్రాంతీయ వైద్య సహకారం ఉపాధ్య య తమైన వి. తదితర ప్రభుత్వ లు పాఠశాలలు ఏ ప్రె ష న్స (
+  (T=1.5): గంభీ సిస్ అనే ఏ ముఁ గూ ంపుల మూ దేశాలు " త క్ర స్కూ ల్‌కు ఇన్‌ వ వే విచారణలో న్నాయి. ప్రపంచవ్యాప్తంగా ఈ 6 8 వారి @ ఖమ్మం ఆదాయం బాగా అవకాశం వస్తూ ఉత్తర్వులు చేసుకోవ ాలన్న నవల విద్యా మ్యా పా లి తి మారి
+
+4. ATTENTION HEAD ANALYSIS (SHANNON ENTROPY & MEAN DISTANCE)
+--------------------------------------------------------------------------------
+Layer 0:
+  Head 0: Entropy = 1.8625 bits | Mean Distance = 2.72 tokens
+  Head 1: Entropy = 1.9254 bits | Mean Distance = 2.72 tokens
+  Head 2: Entropy = 1.4951 bits | Mean Distance = 2.77 tokens
+  Head 3: Entropy = 1.8568 bits | Mean Distance = 2.79 tokens
+  Head 4: Entropy = 1.8788 bits | Mean Distance = 2.54 tokens
+  Head 5: Entropy = 1.0062 bits | Mean Distance = 1.15 tokens
+  Head 6: Entropy = 1.8767 bits | Mean Distance = 2.94 tokens
+  Head 7: Entropy = 1.8260 bits | Mean Distance = 2.46 tokens
+Layer 1:
+  Head 0: Entropy = 0.0586 bits | Mean Distance = 2.94 tokens
+  Head 1: Entropy = 0.2150 bits | Mean Distance = 2.82 tokens
+  Head 2: Entropy = 0.3373 bits | Mean Distance = 2.13 tokens
+  Head 3: Entropy = 0.0781 bits | Mean Distance = 3.70 tokens
+  Head 4: Entropy = 0.0272 bits | Mean Distance = 0.84 tokens
+  Head 5: Entropy = 0.1720 bits | Mean Distance = 2.50 tokens
+  Head 6: Entropy = 0.0771 bits | Mean Distance = 2.33 tokens
+  Head 7: Entropy = 0.0997 bits | Mean Distance = 1.74 tokens
+Layer 2:
+  Head 0: Entropy = 0.2147 bits | Mean Distance = 1.88 tokens
+  Head 1: Entropy = 0.2453 bits | Mean Distance = 3.72 tokens
+  Head 2: Entropy = 0.0177 bits | Mean Distance = 2.85 tokens
+  Head 3: Entropy = 0.0184 bits | Mean Distance = 2.86 tokens
+  Head 4: Entropy = 0.2853 bits | Mean Distance = 2.21 tokens
+  Head 5: Entropy = 0.0634 bits | Mean Distance = 1.79 tokens
+  Head 6: Entropy = 0.0256 bits | Mean Distance = 3.31 tokens
+  Head 7: Entropy = 0.1553 bits | Mean Distance = 3.26 tokens
+Layer 3:
+  Head 0: Entropy = 0.0877 bits | Mean Distance = 3.86 tokens
+  Head 1: Entropy = 0.0312 bits | Mean Distance = 3.29 tokens
+  Head 2: Entropy = 0.2103 bits | Mean Distance = 3.72 tokens
+  Head 3: Entropy = 0.0027 bits | Mean Distance = 1.08 tokens
+  Head 4: Entropy = 0.0186 bits | Mean Distance = 1.07 tokens
+  Head 5: Entropy = 0.0000 bits | Mean Distance = 1.00 tokens
+  Head 6: Entropy = 0.3488 bits | Mean Distance = 5.05 tokens
+  Head 7: Entropy = 0.1493 bits | Mean Distance = 2.12 tokens
+Layer 4:
+  Head 0: Entropy = 0.7233 bits | Mean Distance = 3.92 tokens
+  Head 1: Entropy = 0.2190 bits | Mean Distance = 2.14 tokens
+  Head 2: Entropy = 0.4137 bits | Mean Distance = 3.10 tokens
+  Head 3: Entropy = 0.3010 bits | Mean Distance = 2.15 tokens
+  Head 4: Entropy = 0.6501 bits | Mean Distance = 3.32 tokens
+  Head 5: Entropy = 0.5939 bits | Mean Distance = 4.46 tokens
+  Head 6: Entropy = 0.2463 bits | Mean Distance = 4.43 tokens
+  Head 7: Entropy = 0.0900 bits | Mean Distance = 1.15 tokens
+Layer 5:
+  Head 0: Entropy = 0.6199 bits | Mean Distance = 2.84 tokens
+  Head 1: Entropy = 0.9880 bits | Mean Distance = 4.28 tokens
+  Head 2: Entropy = 0.2407 bits | Mean Distance = 1.48 tokens
+  Head 3: Entropy = 0.8855 bits | Mean Distance = 3.37 tokens
+  Head 4: Entropy = 0.0597 bits | Mean Distance = 3.77 tokens
+  Head 5: Entropy = 0.2303 bits | Mean Distance = 2.03 tokens
+  Head 6: Entropy = 0.4244 bits | Mean Distance = 3.26 tokens
+  Head 7: Entropy = 0.5837 bits | Mean Distance = 2.28 tokens

@@ -1,0 +1,49 @@
+Device: mps
+Test set: 400 examples
+
+Evaluating pretrained model...
+
+  --- Pretrained Successes ---
+
+  --- Pretrained Failures ---
+    Prompt: దేవ్ యొక్క ధర రాహుల్ కంటే ఎక్కువ. రాహుల్ యొక్క ధర కాంత కంటే ఎక్కువ. అందరిలో ఖరీద...
+    Gold:   దేవ్.   Pred: ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;.
+    Prompt: విమల యొక్క బరువు 35 కిలోగ్రాములు. అమర్ యొక్క బరువు 50 కిలోగ్రాములు. ఎవరి బరువు ఎ...
+    Gold:   అమర్.   Pred: ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;.
+    Prompt: విమల యొక్క బరువు 101 కిలోగ్రాములు, రాహుల్ యొక్క బరువు 28 కిలోగ్రాములు, స్వాతి యొ...
+    Gold:   విమల, స్వాతి, రాహుల్.   Pred: ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ;.
+
+Pretrained metrics: {'model': 'pretrained', 'n_examples': 400, 'exact_match': 0.0, 'prefix_match': 0.0, 'mean_char_acc': 0.0068}
+
+Evaluating finetuned model...
+
+  --- Finetuned Successes ---
+
+  --- Finetuned Failures ---
+    Prompt: దేవ్ యొక్క ధర రాహుల్ కంటే ఎక్కువ. రాహుల్ యొక్క ధర కాంత కంటే ఎక్కువ. అందరిలో ఖరీద...
+    Gold:   దేవ్.   Pred: ▁అని త. త. త. త. త. త. ష్ . త. త. త. ష్ . త. త. త. త. త. త.
+    Prompt: విమల యొక్క బరువు 35 కిలోగ్రాములు. అమర్ యొక్క బరువు 50 కిలోగ్రాములు. ఎవరి బరువు ఎ...
+    Gold:   అమర్.   Pred: ▁ము కేష్ . త. త. త. త. త. త. త. త. త. త. త. త. త. త. త. త. త.
+    Prompt: విమల యొక్క బరువు 101 కిలోగ్రాములు, రాహుల్ యొక్క బరువు 28 కిలోగ్రాములు, స్వాతి యొ...
+    Gold:   విమల, స్వాతి, రాహుల్.   Pred: ▁అని త. ష్, ష్, కేష్ . త. త. త. త. త. త. త. త. త. త. త. త. త. త.
+
+Finetuned metrics: {'model': 'finetuned', 'n_examples': 400, 'exact_match': 0.0, 'prefix_match': 0.0, 'mean_char_acc': 0.0287}
+
+=== COMPARISON ===
+Metric                      Pretrained    Finetuned      Delta
+------------------------------------------------------------
+  exact_match                   0.0000       0.0000    +0.0000
+  prefix_match                  0.0000       0.0000    +0.0000
+  mean_char_acc                 0.0068       0.0287    +0.0219
+
+Per-template EM (finetuned):
+  t_direct_less                  pretrained=0.0000  finetuned=0.0000  n=64
+  t_direct_more                  pretrained=0.0000  finetuned=0.0000  n=62
+  t_multihop_largest             pretrained=0.0000  finetuned=0.0000  n=61
+  t_multihop_smallest            pretrained=0.0000  finetuned=0.0000  n=63
+  t_rank_three                   pretrained=0.0000  finetuned=0.0000  n=36
+  t_transitive_largest           pretrained=0.0000  finetuned=0.0000  n=38
+  t_transitive_relation          pretrained=0.0000  finetuned=0.0000  n=34
+  t_transitive_smallest          pretrained=0.0000  finetuned=0.0000  n=42
+
+Results saved to ../results/reasoning_eval

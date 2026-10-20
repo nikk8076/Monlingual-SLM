@@ -1,0 +1,854 @@
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 9601 (\N{LOWER ONE EIGHTH BLOCK}) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 80 (P) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 114 (r) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 101 (e) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 116 (t) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 97 (a) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 105 (i) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 110 (n) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 100 (d) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 76 (L) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 121 (y) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 72 (H) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 111 (o) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 109 (m) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 112 (p) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 70 (F) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 117 (u) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 9601 (\N{LOWER ONE EIGHTH BLOCK}) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 80 (P) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 114 (r) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 101 (e) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 116 (t) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 97 (a) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 105 (i) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 110 (n) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 100 (d) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 76 (L) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 121 (y) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 72 (H) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 111 (o) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 109 (m) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 112 (p) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 70 (F) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 117 (u) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 9601 (\N{LOWER ONE EIGHTH BLOCK}) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 80 (P) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 114 (r) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 101 (e) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 116 (t) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 97 (a) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 105 (i) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 110 (n) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 100 (d) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 76 (L) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 121 (y) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 72 (H) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 111 (o) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 109 (m) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 112 (p) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 70 (F) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 117 (u) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 9601 (\N{LOWER ONE EIGHTH BLOCK}) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 80 (P) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 114 (r) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 101 (e) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 116 (t) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 97 (a) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 105 (i) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 110 (n) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 100 (d) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 76 (L) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 121 (y) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 72 (H) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 111 (o) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 109 (m) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 112 (p) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 70 (F) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 117 (u) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 9601 (\N{LOWER ONE EIGHTH BLOCK}) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 80 (P) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 114 (r) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 101 (e) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 116 (t) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 97 (a) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 105 (i) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 110 (n) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 100 (d) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 76 (L) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 121 (y) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 72 (H) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 111 (o) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 109 (m) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 112 (p) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 70 (F) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 117 (u) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 9601 (\N{LOWER ONE EIGHTH BLOCK}) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 80 (P) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 114 (r) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 101 (e) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 116 (t) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 97 (a) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 105 (i) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 110 (n) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 100 (d) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 76 (L) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 121 (y) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 72 (H) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 111 (o) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 109 (m) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 112 (p) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 70 (F) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 117 (u) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 9601 (\N{LOWER ONE EIGHTH BLOCK}) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 80 (P) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 114 (r) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 101 (e) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 116 (t) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 97 (a) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 105 (i) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 110 (n) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 100 (d) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 76 (L) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 121 (y) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 72 (H) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 111 (o) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 109 (m) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 112 (p) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 70 (F) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 117 (u) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 9601 (\N{LOWER ONE EIGHTH BLOCK}) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 80 (P) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 114 (r) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 101 (e) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 116 (t) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 97 (a) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 105 (i) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 110 (n) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 100 (d) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 76 (L) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 121 (y) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 72 (H) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 111 (o) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 109 (m) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 112 (p) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 70 (F) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 117 (u) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 9601 (\N{LOWER ONE EIGHTH BLOCK}) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 80 (P) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 114 (r) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 101 (e) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 116 (t) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 97 (a) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 105 (i) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 110 (n) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 100 (d) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 76 (L) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 121 (y) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 72 (H) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 111 (o) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 109 (m) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 112 (p) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 70 (F) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 117 (u) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 9601 (\N{LOWER ONE EIGHTH BLOCK}) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 80 (P) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 114 (r) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 101 (e) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 116 (t) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 97 (a) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 105 (i) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 110 (n) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 100 (d) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 76 (L) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 121 (y) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 72 (H) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 111 (o) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 109 (m) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 112 (p) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 70 (F) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 117 (u) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 9601 (\N{LOWER ONE EIGHTH BLOCK}) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 80 (P) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 114 (r) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 101 (e) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 116 (t) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 97 (a) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 105 (i) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 110 (n) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 100 (d) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 76 (L) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 121 (y) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 72 (H) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 111 (o) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 109 (m) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 112 (p) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 70 (F) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 117 (u) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 9601 (\N{LOWER ONE EIGHTH BLOCK}) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 80 (P) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 114 (r) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 101 (e) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 116 (t) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 97 (a) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 105 (i) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 110 (n) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 100 (d) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 76 (L) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 121 (y) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 72 (H) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 111 (o) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 109 (m) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 112 (p) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 70 (F) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 117 (u) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 9601 (\N{LOWER ONE EIGHTH BLOCK}) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 80 (P) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 114 (r) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 101 (e) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 116 (t) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 97 (a) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 105 (i) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 110 (n) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 100 (d) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 76 (L) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 121 (y) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 72 (H) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 111 (o) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 109 (m) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 112 (p) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 70 (F) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 117 (u) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 9601 (\N{LOWER ONE EIGHTH BLOCK}) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 80 (P) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 114 (r) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 101 (e) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 116 (t) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 97 (a) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 105 (i) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 110 (n) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 100 (d) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 76 (L) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 121 (y) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 72 (H) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 111 (o) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 109 (m) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 112 (p) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 70 (F) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 117 (u) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 9601 (\N{LOWER ONE EIGHTH BLOCK}) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 80 (P) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 114 (r) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 101 (e) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 116 (t) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 97 (a) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 105 (i) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 110 (n) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 100 (d) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 76 (L) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 121 (y) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 72 (H) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 111 (o) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 109 (m) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 112 (p) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 70 (F) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 117 (u) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 9601 (\N{LOWER ONE EIGHTH BLOCK}) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 80 (P) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 114 (r) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 101 (e) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 116 (t) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 97 (a) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 105 (i) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 110 (n) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 100 (d) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 76 (L) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 121 (y) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 72 (H) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 111 (o) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 109 (m) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 112 (p) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 70 (F) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 117 (u) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 9601 (\N{LOWER ONE EIGHTH BLOCK}) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 80 (P) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 114 (r) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 101 (e) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 116 (t) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 97 (a) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 105 (i) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 110 (n) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 100 (d) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 76 (L) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 121 (y) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 72 (H) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 111 (o) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 109 (m) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 112 (p) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 70 (F) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 117 (u) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 9601 (\N{LOWER ONE EIGHTH BLOCK}) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 80 (P) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 114 (r) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 101 (e) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 116 (t) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 97 (a) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 105 (i) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 110 (n) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 100 (d) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 76 (L) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 121 (y) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 72 (H) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 111 (o) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 109 (m) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 112 (p) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 70 (F) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 117 (u) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 9601 (\N{LOWER ONE EIGHTH BLOCK}) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 80 (P) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 114 (r) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 101 (e) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 116 (t) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 97 (a) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 105 (i) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 110 (n) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 100 (d) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 76 (L) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 121 (y) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 72 (H) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 111 (o) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 109 (m) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 112 (p) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 70 (F) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 117 (u) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 9601 (\N{LOWER ONE EIGHTH BLOCK}) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 80 (P) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 114 (r) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 101 (e) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 116 (t) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 97 (a) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 105 (i) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 110 (n) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 100 (d) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 76 (L) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 121 (y) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 72 (H) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 111 (o) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 109 (m) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 112 (p) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 70 (F) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 117 (u) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 9601 (\N{LOWER ONE EIGHTH BLOCK}) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 80 (P) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 114 (r) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 101 (e) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 116 (t) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 97 (a) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 105 (i) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 110 (n) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 100 (d) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 76 (L) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 121 (y) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 72 (H) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 111 (o) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 109 (m) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 112 (p) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 70 (F) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 117 (u) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 9601 (\N{LOWER ONE EIGHTH BLOCK}) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 80 (P) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 114 (r) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 101 (e) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 116 (t) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 97 (a) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 105 (i) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 110 (n) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 100 (d) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 76 (L) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 121 (y) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 72 (H) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 111 (o) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 109 (m) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 112 (p) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 70 (F) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 117 (u) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 9601 (\N{LOWER ONE EIGHTH BLOCK}) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 80 (P) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 114 (r) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 101 (e) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 116 (t) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 97 (a) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 105 (i) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 110 (n) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 100 (d) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 76 (L) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 121 (y) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 72 (H) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 111 (o) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 109 (m) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 112 (p) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 70 (F) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:180: UserWarning: Glyph 117 (u) missing from font(s) Noto Sans Telugu.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 9601 (\N{LOWER ONE EIGHTH BLOCK}) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 80 (P) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 114 (r) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 101 (e) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 116 (t) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 97 (a) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 105 (i) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 110 (n) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 100 (d) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 76 (L) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 121 (y) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 72 (H) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 111 (o) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 109 (m) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 112 (p) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 70 (F) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/telugu/code/compare_attention.py:181: UserWarning: Glyph 117 (u) missing from font(s) Noto Sans Telugu.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+Loading pretrained model...
+Loading finetuned model...
+
+Processing prompt 1: దేవ్ యొక్క ధర రాహుల్ కంటే ఎక్కువ. రాహుల్ యొక్క ధర కాంత కంటే ...
+  Saved: ../results/attention_comparison/prompt1_early_head1.png
+  Saved: ../results/attention_comparison/prompt1_early_head2.png
+  Saved: ../results/attention_comparison/prompt1_late_head1.png
+  Saved: ../results/attention_comparison/prompt1_late_head2.png
+  Saved: ../results/attention_comparison/prompt1_entropy_comparison.png
+  Saved: ../results/attention_comparison/prompt1_distance_comparison.png
+
+Processing prompt 2: విమల యొక్క బరువు 35 కిలోగ్రాములు. అమర్ యొక్క బరువు 50 కిలోగ్...
+  Saved: ../results/attention_comparison/prompt2_early_head1.png
+  Saved: ../results/attention_comparison/prompt2_early_head2.png
+  Saved: ../results/attention_comparison/prompt2_late_head1.png
+  Saved: ../results/attention_comparison/prompt2_late_head2.png
+  Saved: ../results/attention_comparison/prompt2_entropy_comparison.png
+  Saved: ../results/attention_comparison/prompt2_distance_comparison.png
+
+Processing prompt 3: విమల యొక్క బరువు 101 కిలోగ్రాములు, రాహుల్ యొక్క బరువు 28 కిల...
+  Saved: ../results/attention_comparison/prompt3_early_head1.png
+  Saved: ../results/attention_comparison/prompt3_early_head2.png
+  Saved: ../results/attention_comparison/prompt3_late_head1.png
+  Saved: ../results/attention_comparison/prompt3_late_head2.png
+  Saved: ../results/attention_comparison/prompt3_entropy_comparison.png
+  Saved: ../results/attention_comparison/prompt3_distance_comparison.png
+
+Stats saved to ../results/attention_comparison/attention_stats.json
+
+=== Attention Stats Summary ===
+Layer       Pre Entropy     FT Entropy     Pre Dist      FT Dist
+-----------------------------------------------------------------
+  1               2.2020          2.1067        5.7742        5.5861
+  2               2.1325          0.9644        6.5760        7.4730
+  3               2.1831          1.6171        5.9587        6.7549
+  4               2.1537          1.5481        6.2951        6.9925
+  5               2.1514          1.5526        5.7978        5.4755
+  6               2.1523          1.4237        5.7672        3.9288

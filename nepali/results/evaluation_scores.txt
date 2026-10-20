@@ -1,0 +1,124 @@
+=== NEPALI MODEL EVALUATION REPORT ===
+Model Checkpoint: best_checkpoint.pth (Step 19,999)
+Architecture    : 6 Layers, d_model=512, n_heads=8, d_ff=2048, Vocab=16000
+
+1. INTRINSIC LANGUAGE MODELING METRICS (VALIDATION SET)
+--------------------------------------------------------------------------------
+Validation Cross-Entropy Loss : 5.0467
+Perplexity (PPL = exp(loss))   : 155.50
+Bits-Per-Byte (BPB)            : 1.5800
+
+2. GENERATION QUALITY ACROSS TEMPERATURES (50 HELD-OUT TEST PREFIXES)
+--------------------------------------------------------------------------------
+[Greedy (T=0.0)]
+  Word-level ROUGE-L : 0.0549 ( 5.49%)
+  Char-level ROUGE-L : 0.3123 (31.23%)
+  chrF Score         : 13.99
+  BLEU-4 Score       : 1.39
+  Distinct-1         : 0.4680
+  Distinct-2         : 0.5345
+  Repetition Rate    : 0.3926
+
+[T=0.5]
+  Word-level ROUGE-L : 0.0666 ( 6.66%)
+  Char-level ROUGE-L : 0.3097 (30.97%)
+  chrF Score         : 16.01
+  BLEU-4 Score       : 1.61
+  Distinct-1         : 0.6907
+  Distinct-2         : 0.8159
+  Repetition Rate    : 0.1133
+
+[T=1.0]
+  Word-level ROUGE-L : 0.0313 ( 3.13%)
+  Char-level ROUGE-L : 0.3047 (30.47%)
+  chrF Score         : 15.28
+  BLEU-4 Score       : 1.03
+  Distinct-1         : 0.9487
+  Distinct-2         : 0.9890
+  Repetition Rate    : 0.0000
+
+[T=1.5]
+  Word-level ROUGE-L : 0.0199 ( 1.99%)
+  Char-level ROUGE-L : 0.3085 (30.85%)
+  chrF Score         : 15.60
+  BLEU-4 Score       : 0.74
+  Distinct-1         : 0.9900
+  Distinct-2         : 1.0000
+  Repetition Rate    : 0.0000
+
+3. QUALITATIVE GENERATION SAMPLES (3 DEDICATED PROMPTS)
+--------------------------------------------------------------------------------
+[Sample 1 Prompt]: नेपाल एक सुन्दर शान्त हिमाली देश हो जहाँ धेरै भाषा र संस्कृति पाइन्छन्।
+  (Greedy (T=0.0)): यो भाषा लाई पनि थाहा छ कि यो भाषा लाई पनि थाहा छ कि यो भाषा लाई पनि थाहा छ कि यो भाषा लाई पनि थाहा छ कि यो भाषा लाई पनि थाहा छ कि यो भाषा लाई पनि थाहा
+  (T=0.5): तर यो भाषा ले धेरै फरक फरक पार्छ भन्ने मान्यता राख् छ। एक मात्र भाषा भनेको एक मात्र भाषा हो । एउटा भाषा हो । यो भाषा ले पनि भाषा लाई हेर्ने दृष्टिकोण पनि दिन्छ । यो भाषा ले भाषा
+  (T=1.0): उ सँग लिखित त्यही हो भने सोमबार ३१ क्यार ियर हो त्यसैको खेती पाती । चिज पो सा मै थिए त्यति खेर एउटै र जमा विक्री ! सुपर जे समेत अलिकति ज लेको हो ! मलाई विकास लाइ सहज बन्दै
+  (T=1.5): सम्म है कसले फर्केर लाई छाएको हुन सक्छ लोभ उन् का नेपालीहरु समेत भान सम्पर्क ्या धेरै पाइयो भने समृद्धि देशकै ठूलो जीवन होस् भन्ने चाल तुरुन्तै थोरै घर पर पाइन हर ू मानिन्छ। के ंक सन्ता नका हुनुहुन्छ
+
+[Sample 2 Prompt]: काठमाडौं नेपालको ऐतिहासिक राजधानी सहर हो जहाँ धेरै पुराना मन्दिरहरू छन्।
+  (Greedy (T=0.0)): यो सहर लाई पनि यो सहर को रूपमा चिनि न्छ र यो सहर लाई पनि यो सहर को रूपमा चिनि न्छ । यो सहर लाई पनि यो सहर को रूपमा चिनि न्छ । यो सहर लाई पनि यो सहर को
+  (T=0.5): तर यो गुफा को नाम वा नाम मात्र हो। यो गुफा मा एउटा मात्र यो गुफा को नाम पनि छ। यो गुफा को नाम र नाम की र मालिक नै हो। यो गुफा को नाम हो यो गुफा मा ।
+  (T=1.0): एउटा सुन्दर ताल मा अवस्थित त ले दार तै सानो र वैज्ञानिक भित्र का गे म् दि उत्तरी छ। अर्को ठूला शहर हरूमा W W C H ac er e d om G r om C ic p i e
+  (T=1.5): नेपाल, रुकु मको जापान लगायतका संयुक्त सर्त लिई यही प्रवद्र् क्रो बन्न जहा फ्लो जि ङ्ग नामको निर्माण भएको पनि (सन् ७६ म्बा -स ृ जा, २६ हवाई भारु (३) आई लेका नागरिकका सेवा विभिन्न अन्यत्र गर्न दिनुपर्छ निश्चित ठूला
+
+[Sample 3 Prompt]: शिक्षा र ज्ञानले मानिसको सोच्ने शक्ति र समग्र जीवन परिवर्तन गर्छ।
+  (Greedy (T=0.0)): यो कुरा त के हो भने यो कुरा के हो भने यो कुरा के हो भने यो कुरा के हो भने यो कुरा के हो भने यो कुरा के हो भने यो कुरा के हो भने यो कुरा के हो
+  (T=0.5): त्यसैले मानिसलाई जीवन रक्षा को अवसर पनि प्राप्त गर्न जरुरी छ। व्यावहारिक शिक्षा र शिक्षा लाई आत्म सात गर्दै दिगो विकास र सामाजिक विकासमा जोड दिने अवसर प्रदान गर्ने अवसर प्राप्त गर्ने अवसर प्रदान गर्ने अवसर प्रदान गर्ने अवसर प्रदान
+  (T=1.0): विज्ञान अनुसार मनुष्य को आकार देखि बस्दा समयमा कुनै समय रूख को आकार , न क्षत्र भएका जनावर ले नै आफ्नो प्रण ालीले गति लिन सक्छ। वजन घट्ने , परा वन आउने , मन र भय -म साद
+  (T=1.5): विकासलाई विधि शताब्दीको जि वन मै व ैन बनाउन थालि सकेको प्रधानमन्त्री ओली विना संस्कृति, धर्म निर रूपान्तरण विधेयक ५ माथि राखि नेछ। ठूलो सूचका सिफिक वा आयोजना गर्छ भन्ने चार अंश बनाइ यो प्रस्तावमा अनुमति हुनु बाहेक तिथि दरमा
+
+4. ATTENTION HEAD ANALYSIS (SHANNON ENTROPY & MEAN DISTANCE)
+--------------------------------------------------------------------------------
+Layer 0:
+  Head 0: Entropy = 0.1842 bits | Mean Distance = 0.09 tokens
+  Head 1: Entropy = 0.1040 bits | Mean Distance = 0.06 tokens
+  Head 2: Entropy = 1.0380 bits | Mean Distance = 1.46 tokens
+  Head 3: Entropy = 1.8453 bits | Mean Distance = 2.94 tokens
+  Head 4: Entropy = 1.5661 bits | Mean Distance = 2.41 tokens
+  Head 5: Entropy = 1.7439 bits | Mean Distance = 2.48 tokens
+  Head 6: Entropy = 0.1771 bits | Mean Distance = 0.14 tokens
+  Head 7: Entropy = 0.5657 bits | Mean Distance = 0.66 tokens
+Layer 1:
+  Head 0: Entropy = 1.5583 bits | Mean Distance = 3.76 tokens
+  Head 1: Entropy = 2.1933 bits | Mean Distance = 2.79 tokens
+  Head 2: Entropy = 1.6455 bits | Mean Distance = 1.75 tokens
+  Head 3: Entropy = 1.9842 bits | Mean Distance = 2.47 tokens
+  Head 4: Entropy = 1.9695 bits | Mean Distance = 2.29 tokens
+  Head 5: Entropy = 1.9612 bits | Mean Distance = 3.54 tokens
+  Head 6: Entropy = 1.8631 bits | Mean Distance = 2.81 tokens
+  Head 7: Entropy = 1.7429 bits | Mean Distance = 3.08 tokens
+Layer 2:
+  Head 0: Entropy = 0.3583 bits | Mean Distance = 0.99 tokens
+  Head 1: Entropy = 1.6883 bits | Mean Distance = 1.88 tokens
+  Head 2: Entropy = 1.5011 bits | Mean Distance = 2.68 tokens
+  Head 3: Entropy = 1.2637 bits | Mean Distance = 1.64 tokens
+  Head 4: Entropy = 2.2752 bits | Mean Distance = 3.29 tokens
+  Head 5: Entropy = 1.2127 bits | Mean Distance = 2.35 tokens
+  Head 6: Entropy = 1.8739 bits | Mean Distance = 2.63 tokens
+  Head 7: Entropy = 1.4816 bits | Mean Distance = 2.56 tokens
+Layer 3:
+  Head 0: Entropy = 1.8663 bits | Mean Distance = 2.52 tokens
+  Head 1: Entropy = 1.8758 bits | Mean Distance = 2.67 tokens
+  Head 2: Entropy = 1.3930 bits | Mean Distance = 3.04 tokens
+  Head 3: Entropy = 1.4393 bits | Mean Distance = 1.37 tokens
+  Head 4: Entropy = 1.7029 bits | Mean Distance = 2.32 tokens
+  Head 5: Entropy = 1.9990 bits | Mean Distance = 2.84 tokens
+  Head 6: Entropy = 2.1741 bits | Mean Distance = 3.61 tokens
+  Head 7: Entropy = 1.1835 bits | Mean Distance = 1.62 tokens
+Layer 4:
+  Head 0: Entropy = 2.1094 bits | Mean Distance = 3.72 tokens
+  Head 1: Entropy = 2.0746 bits | Mean Distance = 2.73 tokens
+  Head 2: Entropy = 1.5721 bits | Mean Distance = 2.50 tokens
+  Head 3: Entropy = 1.8437 bits | Mean Distance = 2.96 tokens
+  Head 4: Entropy = 0.2430 bits | Mean Distance = 0.88 tokens
+  Head 5: Entropy = 1.6639 bits | Mean Distance = 2.65 tokens
+  Head 6: Entropy = 1.4460 bits | Mean Distance = 2.71 tokens
+  Head 7: Entropy = 2.0614 bits | Mean Distance = 2.39 tokens
+Layer 5:
+  Head 0: Entropy = 1.4781 bits | Mean Distance = 2.90 tokens
+  Head 1: Entropy = 1.0706 bits | Mean Distance = 1.41 tokens
+  Head 2: Entropy = 0.9446 bits | Mean Distance = 2.88 tokens
+  Head 3: Entropy = 1.7413 bits | Mean Distance = 2.91 tokens
+  Head 4: Entropy = 1.5313 bits | Mean Distance = 1.82 tokens
+  Head 5: Entropy = 1.6188 bits | Mean Distance = 3.18 tokens
+  Head 6: Entropy = 2.0206 bits | Mean Distance = 3.51 tokens
+  Head 7: Entropy = 1.2081 bits | Mean Distance = 4.78 tokens

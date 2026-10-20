@@ -1,0 +1,311 @@
+{
+  "language": "nepali",
+  "checkpoint_type": "finetuned",
+  "n_total": 2000,
+  "exact_match": 0.5815,
+  "exact_match_pct": 58.15,
+  "exact_match_count": 1163,
+  "prefix_match": 0.5815,
+  "prefix_match_pct": 58.15,
+  "prefix_match_count": 1163,
+  "char_set_acc": 0.9056,
+  "char_set_acc_pct": 90.56,
+  "time_seconds": 63.44,
+  "template_breakdown": {
+    "t_transitive_relation": {
+      "n": 197,
+      "em": 140,
+      "em_rate": 0.7107,
+      "pm_rate": 0.7107,
+      "char_acc": 1.0
+    },
+    "t_multihop_smallest": {
+      "n": 280,
+      "em": 185,
+      "em_rate": 0.6607,
+      "pm_rate": 0.6607,
+      "char_acc": 1.0
+    },
+    "t_transitive_largest": {
+      "n": 205,
+      "em": 135,
+      "em_rate": 0.6585,
+      "pm_rate": 0.6585,
+      "char_acc": 1.0
+    },
+    "t_multihop_largest": {
+      "n": 305,
+      "em": 192,
+      "em_rate": 0.6295,
+      "pm_rate": 0.6295,
+      "char_acc": 1.0
+    },
+    "t_transitive_smallest": {
+      "n": 192,
+      "em": 115,
+      "em_rate": 0.599,
+      "pm_rate": 0.599,
+      "char_acc": 1.0
+    },
+    "t_direct_more": {
+      "n": 309,
+      "em": 165,
+      "em_rate": 0.534,
+      "pm_rate": 0.534,
+      "char_acc": 0.8183
+    },
+    "t_rank_three": {
+      "n": 205,
+      "em": 94,
+      "em_rate": 0.4585,
+      "pm_rate": 0.4585,
+      "char_acc": 0.7297
+    },
+    "t_direct_less": {
+      "n": 307,
+      "em": 137,
+      "em_rate": 0.4463,
+      "pm_rate": 0.4463,
+      "char_acc": 0.7482
+    }
+  },
+  "attribute_breakdown": {
+    "weight": {
+      "n": 371,
+      "em": 226,
+      "em_rate": 0.6092,
+      "pm_rate": 0.6092,
+      "char_acc": 0.8999
+    },
+    "speed": {
+      "n": 409,
+      "em": 240,
+      "em_rate": 0.5868,
+      "pm_rate": 0.5868,
+      "char_acc": 0.9056
+    },
+    "height": {
+      "n": 370,
+      "em": 215,
+      "em_rate": 0.5811,
+      "pm_rate": 0.5811,
+      "char_acc": 0.9049
+    },
+    "price": {
+      "n": 407,
+      "em": 233,
+      "em_rate": 0.5725,
+      "pm_rate": 0.5725,
+      "char_acc": 0.8973
+    },
+    "age": {
+      "n": 443,
+      "em": 249,
+      "em_rate": 0.5621,
+      "pm_rate": 0.5621,
+      "char_acc": 0.9185
+    }
+  },
+  "sample_predictions": [
+    {
+      "prompt": "इन्दिरा को उचाइ 49 सेन्टिमिटर, चन्द्र को उचाइ 187 सेन्टिमिटर, हरि को उचाइ 154 सेन्टिमिटर छ. सबभन्दा बढी उचाइ भएको को हो?",
+      "gold": "चन्द्र",
+      "pred": "चन्द्र",
+      "em": 1,
+      "pm": 1,
+      "char_acc": 1.0,
+      "template_id": "t_rank_three",
+      "attribute": "height"
+    },
+    {
+      "prompt": "अजय को मूल्य रघु भन्दा बढी छ. रघु को मूल्य कला भन्दा बढी छ. कला को मूल्य चरण भन्दा बढी छ. सबभन्दा कम मूल्य भएको को हो?",
+      "gold": "चरण",
+      "pred": "चरण",
+      "em": 1,
+      "pm": 1,
+      "char_acc": 1.0,
+      "template_id": "t_multihop_smallest",
+      "attribute": "price"
+    },
+    {
+      "prompt": "पद्मा को उमेर 98 वर्ष छ. शान्ति को उमेर 70 वर्ष छ. को उमेरमा कान्छो छ?",
+      "gold": "शान्ति",
+      "pred": "पद् मा",
+      "em": 0,
+      "pm": 0,
+      "char_acc": 0.2222222222222222,
+      "template_id": "t_direct_less",
+      "attribute": "age"
+    },
+    {
+      "prompt": "विजय को उमेर 71 वर्ष, अमर को उमेर 44 वर्ष, मुकेश को उमेर 172 वर्ष छ. सबभन्दा बढी उमेर भएको को हो?",
+      "gold": "मुकेश",
+      "pred": "मु केश",
+      "em": 0,
+      "pm": 0,
+      "char_acc": 1.0,
+      "template_id": "t_rank_three",
+      "attribute": "age"
+    },
+    {
+      "prompt": "रवीन्द्र को उचाइ नलिनी भन्दा बढी छ. नलिनी को उचाइ सन्तोष भन्दा बढी छ. रवीन्द्र र सन्तोष मध्ये उचाइमा को अगाडि छ?",
+      "gold": "रवीन्द्र",
+      "pred": "रवीन्द्र",
+      "em": 1,
+      "pm": 1,
+      "char_acc": 1.0,
+      "template_id": "t_transitive_relation",
+      "attribute": "height"
+    },
+    {
+      "prompt": "श्याम को उचाइ कौशल्या भन्दा बढी छ. कौशल्या को उचाइ स्वाति भन्दा बढी छ. श्याम र स्वाति मध्ये उचाइमा को अगाडि छ?",
+      "gold": "श्याम",
+      "pred": "श्याम",
+      "em": 1,
+      "pm": 1,
+      "char_acc": 1.0,
+      "template_id": "t_transitive_relation",
+      "attribute": "height"
+    },
+    {
+      "prompt": "सन्तोष को तौल 132 किलोग्राम छ. सावित्री को तौल 26 किलोग्राम छ. को तौल कम छ?",
+      "gold": "सावित्री",
+      "pred": "सन्तोष",
+      "em": 0,
+      "pm": 0,
+      "char_acc": 0.2727272727272727,
+      "template_id": "t_direct_less",
+      "attribute": "weight"
+    },
+    {
+      "prompt": "कौशल्या को उमेर 134 वर्ष छ. नलिनी को उमेर 92 वर्ष छ. को उमेरमा जेठो छ?",
+      "gold": "कौशल्या",
+      "pred": "कौ श ल्या",
+      "em": 0,
+      "pm": 0,
+      "char_acc": 1.0,
+      "template_id": "t_direct_more",
+      "attribute": "age"
+    },
+    {
+      "prompt": "स्वाति को तौल 123 किलोग्राम छ. श्याम को तौल 198 किलोग्राम छ. को तौल कम छ?",
+      "gold": "स्वाति",
+      "pred": "श्याम",
+      "em": 0,
+      "pm": 0,
+      "char_acc": 0.2222222222222222,
+      "template_id": "t_direct_less",
+      "attribute": "weight"
+    },
+    {
+      "prompt": "कृष्ण को गति 175 कि.मि./घण्टा छ. मनमाया को गति 128 कि.मि./घण्टा छ. को ढिलो दौड्यो?",
+      "gold": "मनमाया",
+      "pred": "मनमा या",
+      "em": 0,
+      "pm": 0,
+      "char_acc": 1.0,
+      "template_id": "t_direct_less",
+      "attribute": "speed"
+    },
+    {
+      "prompt": "मोहन को मूल्य अमर भन्दा बढी छ. अमर को मूल्य बिमल भन्दा बढी छ. बिमल को मूल्य स्वाति भन्दा बढी छ. सबभन्दा कम मूल्य भएको को हो?",
+      "gold": "स्वाति",
+      "pred": "स्वा ति",
+      "em": 0,
+      "pm": 0,
+      "char_acc": 1.0,
+      "template_id": "t_multihop_smallest",
+      "attribute": "price"
+    },
+    {
+      "prompt": "प्रकाश को मूल्य 73 रुपैयाँ छ. रोहित को मूल्य 85 रुपैयाँ छ. कुन कम मूल्यमा बिक्छ?",
+      "gold": "प्रकाश",
+      "pred": "प्रकाश",
+      "em": 1,
+      "pm": 1,
+      "char_acc": 1.0,
+      "template_id": "t_direct_less",
+      "attribute": "price"
+    },
+    {
+      "prompt": "विक्रम को तौल विजय भन्दा बढी छ. विजय को तौल सीता भन्दा बढी छ. सीता को तौल दुर्गा भन्दा बढी छ. सबभन्दा बढी तौल भएको को हो?",
+      "gold": "विक्रम",
+      "pred": "विक्रम",
+      "em": 1,
+      "pm": 1,
+      "char_acc": 1.0,
+      "template_id": "t_multihop_largest",
+      "attribute": "weight"
+    },
+    {
+      "prompt": "दिनेश को तौल 21 किलोग्राम छ. नवीन को तौल 165 किलोग्राम छ. को तौल कम छ?",
+      "gold": "दिनेश",
+      "pred": "दिनेश",
+      "em": 1,
+      "pm": 1,
+      "char_acc": 1.0,
+      "template_id": "t_direct_less",
+      "attribute": "weight"
+    },
+    {
+      "prompt": "दीपा को गति सरला भन्दा बढी छ. सरला को गति रोहित भन्दा बढी छ. दीपा र रोहित मध्ये गतिमा को अगाडि छ?",
+      "gold": "दीपा",
+      "pred": "दीपा",
+      "em": 1,
+      "pm": 1,
+      "char_acc": 1.0,
+      "template_id": "t_transitive_relation",
+      "attribute": "speed"
+    },
+    {
+      "prompt": "राहुल को उमेर शान्ति भन्दा बढी छ. शान्ति को उमेर प्रसाद भन्दा बढी छ. सबभन्दा जेठो को हो?",
+      "gold": "राहुल",
+      "pred": "राहु ल",
+      "em": 0,
+      "pm": 0,
+      "char_acc": 1.0,
+      "template_id": "t_transitive_largest",
+      "attribute": "age"
+    },
+    {
+      "prompt": "राम को गति 121 कि.मि./घण्टा, अजय को गति 37 कि.मि./घण्टा, पद्मा को गति 38 कि.मि./घण्टा छ. सबभन्दा बढी गति भएको को हो?",
+      "gold": "राम",
+      "pred": "पद् मा",
+      "em": 0,
+      "pm": 0,
+      "char_acc": 0.3333333333333333,
+      "template_id": "t_rank_three",
+      "attribute": "speed"
+    },
+    {
+      "prompt": "सुरेश को गति दिनेश भन्दा बढी छ. दिनेश को गति विक्रम भन्दा बढी छ. विक्रम को गति माला भन्दा बढी छ. सबभन्दा बढी गति भएको को हो?",
+      "gold": "सुरेश",
+      "pred": "सुरेश",
+      "em": 1,
+      "pm": 1,
+      "char_acc": 1.0,
+      "template_id": "t_multihop_largest",
+      "attribute": "speed"
+    },
+    {
+      "prompt": "उषा को उमेर 51 वर्ष छ. स्वाति को उमेर 134 वर्ष छ. को उमेरमा जेठो छ?",
+      "gold": "स्वाति",
+      "pred": "स्वा ति",
+      "em": 0,
+      "pm": 0,
+      "char_acc": 1.0,
+      "template_id": "t_direct_more",
+      "attribute": "age"
+    },
+    {
+      "prompt": "प्रसाद को उमेर 24 वर्ष छ. दुर्गा को उमेर 142 वर्ष छ. को उमेरमा जेठो छ?",
+      "gold": "दुर्गा",
+      "pred": "दुर्गा",
+      "em": 1,
+      "pm": 1,
+      "char_acc": 1.0,
+      "template_id": "t_direct_more",
+      "attribute": "age"
+    }
+  ]
+}

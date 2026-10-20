@@ -1,0 +1,90 @@
+{
+  "lang": "te",
+  "pretrained": {
+    "model": "pretrained",
+    "n_examples": 400,
+    "exact_match": 0.0,
+    "prefix_match": 0.0,
+    "mean_char_acc": 0.0068
+  },
+  "finetuned": {
+    "model": "finetuned",
+    "n_examples": 400,
+    "exact_match": 0.0,
+    "prefix_match": 0.0,
+    "mean_char_acc": 0.0287
+  },
+  "improvement": {
+    "exact_match": 0.0,
+    "prefix_match": 0.0,
+    "mean_char_acc": 0.0219
+  },
+  "per_template_pretrained": {
+    "t_transitive_largest": {
+      "em_rate": 0.0,
+      "n": 38
+    },
+    "t_direct_more": {
+      "em_rate": 0.0,
+      "n": 62
+    },
+    "t_rank_three": {
+      "em_rate": 0.0,
+      "n": 36
+    },
+    "t_direct_less": {
+      "em_rate": 0.0,
+      "n": 64
+    },
+    "t_transitive_relation": {
+      "em_rate": 0.0,
+      "n": 34
+    },
+    "t_multihop_smallest": {
+      "em_rate": 0.0,
+      "n": 63
+    },
+    "t_transitive_smallest": {
+      "em_rate": 0.0,
+      "n": 42
+    },
+    "t_multihop_largest": {
+      "em_rate": 0.0,
+      "n": 61
+    }
+  },
+  "per_template_finetuned": {
+    "t_transitive_largest": {
+      "em_rate": 0.0,
+      "n": 38
+    },
+    "t_direct_more": {
+      "em_rate": 0.0,
+      "n": 62
+    },
+    "t_rank_three": {
+      "em_rate": 0.0,
+      "n": 36
+    },
+    "t_direct_less": {
+      "em_rate": 0.0,
+      "n": 64
+    },
+    "t_transitive_relation": {
+      "em_rate": 0.0,
+      "n": 34
+    },
+    "t_multihop_smallest": {
+      "em_rate": 0.0,
+      "n": 63
+    },
+    "t_transitive_smallest": {
+      "em_rate": 0.0,
+      "n": 42
+    },
+    "t_multihop_largest": {
+      "em_rate": 0.0,
+      "n": 61
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "lang": "te",
+  "results": {
+    "pretrained": {
+      "exact_match": 0.0,
+      "prefix_match": 0.0,
+      "mean_char_set_acc": 0.0
+    },
+    "finetuned": {
+      "exact_match": 0.0,
+      "prefix_match": 0.0,
+      "mean_char_set_acc": 0.2626
+    }
+  }
+}

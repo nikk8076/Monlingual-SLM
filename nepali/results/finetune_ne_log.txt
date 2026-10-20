@@ -1,0 +1,20 @@
+Using device: mps
+Config: {'vocab_size': 16000, 'd_model': 512, 'n_heads': 8, 'd_ff': 2048, 'n_layers': 6, 'max_seq_len': 512, 'dropout': 0.1, 'tie_weights': True}
+Loading tokenizer...
+  Vocab size: 16000
+  Model params: 27,088,384
+Loading pretrained checkpoint from ../best_checkpoint.pth ...
+  Pretrained weights loaded.
+  Loaded 3000 examples from ../datasets/reasoning/train.jsonl
+  Loaded 400 examples from ../datasets/reasoning/val.jsonl
+
+Starting finetuning for up to 5 epochs...
+Epoch 1/5 | train_loss=1.3111 | val_loss=2.3997 | ppl=11.02 | 40.2s
+  -> New best val_loss=2.3997
+Epoch 2/5 | train_loss=0.4423 | val_loss=2.7897 | ppl=16.28 | 42.4s
+Epoch 3/5 | train_loss=0.3057 | val_loss=2.7981 | ppl=16.41 | 41.1s
+Epoch 4/5 | train_loss=0.2221 | val_loss=2.7608 | ppl=15.81 | 43.3s
+Early stopping after 3 epochs without improvement.
+
+Training complete. Logs saved to ../finetuned/finetune_log.json
+Best val loss: 2.3997

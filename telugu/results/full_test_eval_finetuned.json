@@ -1,0 +1,311 @@
+{
+  "language": "telugu",
+  "checkpoint_type": "finetuned",
+  "n_total": 2000,
+  "exact_match": 0.534,
+  "exact_match_pct": 53.4,
+  "exact_match_count": 1068,
+  "prefix_match": 0.534,
+  "prefix_match_pct": 53.4,
+  "prefix_match_count": 1068,
+  "char_set_acc": 0.8046,
+  "char_set_acc_pct": 80.46,
+  "time_seconds": 63.21,
+  "template_breakdown": {
+    "t_transitive_relation": {
+      "n": 197,
+      "em": 143,
+      "em_rate": 0.7259,
+      "pm_rate": 0.7259,
+      "char_acc": 1.0
+    },
+    "t_multihop_largest": {
+      "n": 305,
+      "em": 215,
+      "em_rate": 0.7049,
+      "pm_rate": 0.7049,
+      "char_acc": 1.0
+    },
+    "t_transitive_largest": {
+      "n": 205,
+      "em": 144,
+      "em_rate": 0.7024,
+      "pm_rate": 0.7024,
+      "char_acc": 1.0
+    },
+    "t_multihop_smallest": {
+      "n": 280,
+      "em": 193,
+      "em_rate": 0.6893,
+      "pm_rate": 0.6893,
+      "char_acc": 1.0
+    },
+    "t_transitive_smallest": {
+      "n": 192,
+      "em": 125,
+      "em_rate": 0.651,
+      "pm_rate": 0.651,
+      "char_acc": 1.0
+    },
+    "t_direct_more": {
+      "n": 309,
+      "em": 103,
+      "em_rate": 0.3333,
+      "pm_rate": 0.3333,
+      "char_acc": 0.574
+    },
+    "t_direct_less": {
+      "n": 307,
+      "em": 92,
+      "em_rate": 0.2997,
+      "pm_rate": 0.2997,
+      "char_acc": 0.5213
+    },
+    "t_rank_three": {
+      "n": 205,
+      "em": 53,
+      "em_rate": 0.2585,
+      "pm_rate": 0.2585,
+      "char_acc": 0.4522
+    }
+  },
+  "attribute_breakdown": {
+    "weight": {
+      "n": 371,
+      "em": 204,
+      "em_rate": 0.5499,
+      "pm_rate": 0.5499,
+      "char_acc": 0.8145
+    },
+    "age": {
+      "n": 443,
+      "em": 243,
+      "em_rate": 0.5485,
+      "pm_rate": 0.5485,
+      "char_acc": 0.8067
+    },
+    "height": {
+      "n": 370,
+      "em": 201,
+      "em_rate": 0.5432,
+      "pm_rate": 0.5432,
+      "char_acc": 0.8004
+    },
+    "speed": {
+      "n": 409,
+      "em": 217,
+      "em_rate": 0.5306,
+      "pm_rate": 0.5306,
+      "char_acc": 0.8091
+    },
+    "price": {
+      "n": 407,
+      "em": 203,
+      "em_rate": 0.4988,
+      "pm_rate": 0.4988,
+      "char_acc": 0.7925
+    }
+  },
+  "sample_predictions": [
+    {
+      "prompt": "నిర్మల యొక్క ఎత్తు 49 సెంటీమీటర్లు, నళిని యొక్క ఎత్తు 187 సెంటీమీటర్లు, వెంకట్ యొక్క ఎత్తు 154 సెంటీమీటర్లు. అందరిలో ఎక్కువ ఎత్తు ఉన్న వ్యక్తి ఎవరు?",
+      "gold": "నళిని",
+      "pred": "న ళి ని",
+      "em": 0,
+      "pm": 0,
+      "char_acc": 1.0,
+      "template_id": "t_rank_three",
+      "attribute": "height"
+    },
+    {
+      "prompt": "రవీందర్ యొక్క ధర సుధ కంటే ఎక్కువ. సుధ యొక్క ధర వసంత కంటే ఎక్కువ. వసంత యొక్క ధర అశోక్ కంటే ఎక్కువ. అందరిలో అతి తక్కువ ధర ఉన్న వ్యక్తి ఎవరు?",
+      "gold": "అశోక్",
+      "pred": "అశోక్",
+      "em": 1,
+      "pm": 1,
+      "char_acc": 1.0,
+      "template_id": "t_multihop_smallest",
+      "attribute": "price"
+    },
+    {
+      "prompt": "విజయ్ యొక్క వయస్సు 98 సంవత్సరాలు. ప్రకాష్ యొక్క వయస్సు 70 సంవత్సరాలు. ఎవరు వయస్సులో చిన్నవారు?",
+      "gold": "ప్రకాష్",
+      "pred": "ప్రకాష్",
+      "em": 1,
+      "pm": 1,
+      "char_acc": 1.0,
+      "template_id": "t_direct_less",
+      "attribute": "age"
+    },
+    {
+      "prompt": "భానుమతి యొక్క వయస్సు 71 సంవత్సరాలు, తేజ యొక్క వయస్సు 44 సంవత్సరాలు, శ్రీనివాస్ యొక్క వయస్సు 172 సంవత్సరాలు. అందరిలో ఎక్కువ వయస్సు ఉన్న వ్యక్తి ఎవరు?",
+      "gold": "శ్రీనివాస్",
+      "pred": "శ్రీనివాస్",
+      "em": 1,
+      "pm": 1,
+      "char_acc": 1.0,
+      "template_id": "t_rank_three",
+      "attribute": "age"
+    },
+    {
+      "prompt": "ప్రసాద్ యొక్క ఎత్తు మీర కంటే ఎక్కువ. మీర యొక్క ఎత్తు విక్రమ్ కంటే ఎక్కువ. ప్రసాద్ మరియు విక్రమ్ మధ్య ఎత్తు విషయంలో ఎవరు ముందు?",
+      "gold": "ప్రసాద్",
+      "pred": "ప్రసాద్",
+      "em": 1,
+      "pm": 1,
+      "char_acc": 1.0,
+      "template_id": "t_transitive_relation",
+      "attribute": "height"
+    },
+    {
+      "prompt": "రమేష్ యొక్క ఎత్తు విమల కంటే ఎక్కువ. విమల యొక్క ఎత్తు కాంత కంటే ఎక్కువ. రమేష్ మరియు కాంత మధ్య ఎత్తు విషయంలో ఎవరు ముందు?",
+      "gold": "రమేష్",
+      "pred": "రమేష్",
+      "em": 1,
+      "pm": 1,
+      "char_acc": 1.0,
+      "template_id": "t_transitive_relation",
+      "attribute": "height"
+    },
+    {
+      "prompt": "విక్రమ్ యొక్క బరువు 132 కిలోగ్రాములు. మోహన్ యొక్క బరువు 26 కిలోగ్రాములు. ఎవరి బరువు తక్కువ?",
+      "gold": "మోహన్",
+      "pred": "మోహన్",
+      "em": 1,
+      "pm": 1,
+      "char_acc": 1.0,
+      "template_id": "t_direct_less",
+      "attribute": "weight"
+    },
+    {
+      "prompt": "విమల యొక్క వయస్సు 134 సంవత్సరాలు. మీర యొక్క వయస్సు 92 సంవత్సరాలు. ఎవరు వయస్సులో పెద్దవారు?",
+      "gold": "విమల",
+      "pred": "మీర",
+      "em": 0,
+      "pm": 0,
+      "char_acc": 0.16666666666666666,
+      "template_id": "t_direct_more",
+      "attribute": "age"
+    },
+    {
+      "prompt": "కాంత యొక్క బరువు 123 కిలోగ్రాములు. రమేష్ యొక్క బరువు 198 కిలోగ్రాములు. ఎవరి బరువు తక్కువ?",
+      "gold": "కాంత",
+      "pred": "రమేష్",
+      "em": 0,
+      "pm": 0,
+      "char_acc": 0.0,
+      "template_id": "t_direct_less",
+      "attribute": "weight"
+    },
+    {
+      "prompt": "సావిత్రి యొక్క వేగం 175 కి.మీ/గంట. దీప యొక్క వేగం 128 కి.మీ/గంట. ఎవరు తక్కువ వేగంగా నడిచారు?",
+      "gold": "దీప",
+      "pred": "సావిత్రి",
+      "em": 0,
+      "pm": 0,
+      "char_acc": 0.0,
+      "template_id": "t_direct_less",
+      "attribute": "speed"
+    },
+    {
+      "prompt": "అనిత యొక్క ధర తేజ కంటే ఎక్కువ. తేజ యొక్క ధర కౌసల్య కంటే ఎక్కువ. కౌసల్య యొక్క ధర కాంత కంటే ఎక్కువ. అందరిలో అతి తక్కువ ధర ఉన్న వ్యక్తి ఎవరు?",
+      "gold": "కాంత",
+      "pred": "కాంత",
+      "em": 1,
+      "pm": 1,
+      "char_acc": 1.0,
+      "template_id": "t_multihop_smallest",
+      "attribute": "price"
+    },
+    {
+      "prompt": "రత్న యొక్క ధర 73 రూపాయలు. ఆకాష్ యొక్క ధర 85 రూపాయలు. ఏది తక్కువ ధరకు అమ్ముతారు?",
+      "gold": "రత్న",
+      "pred": "ఆకా ష్",
+      "em": 0,
+      "pm": 0,
+      "char_acc": 0.125,
+      "template_id": "t_direct_less",
+      "attribute": "price"
+    },
+    {
+      "prompt": "దినేష్ యొక్క బరువు భానుమతి కంటే ఎక్కువ. భానుమతి యొక్క బరువు సీత కంటే ఎక్కువ. సీత యొక్క బరువు శాంతి కంటే ఎక్కువ. అందరిలో అతిపెద్ద బరువు ఉన్న వ్యక్తి ఎవరు?",
+      "gold": "దినేష్",
+      "pred": "ద ినే ష్",
+      "em": 0,
+      "pm": 0,
+      "char_acc": 1.0,
+      "template_id": "t_multihop_largest",
+      "attribute": "weight"
+    },
+    {
+      "prompt": "ముకేష్ యొక్క బరువు 21 కిలోగ్రాములు. కమల యొక్క బరువు 165 కిలోగ్రాములు. ఎవరి బరువు తక్కువ?",
+      "gold": "ముకేష్",
+      "pred": "కమల",
+      "em": 0,
+      "pm": 0,
+      "char_acc": 0.2857142857142857,
+      "template_id": "t_direct_less",
+      "attribute": "weight"
+    },
+    {
+      "prompt": "చరణ్ యొక్క వేగం జ్యోతి కంటే ఎక్కువ. జ్యోతి యొక్క వేగం ఆకాష్ కంటే ఎక్కువ. చరణ్ మరియు ఆకాష్ మధ్య వేగం విషయంలో ఎవరు ముందు?",
+      "gold": "చరణ్",
+      "pred": "చరణ్",
+      "em": 1,
+      "pm": 1,
+      "char_acc": 1.0,
+      "template_id": "t_transitive_relation",
+      "attribute": "speed"
+    },
+    {
+      "prompt": "విఘ్నేష్ యొక్క వయస్సు ప్రకాష్ కంటే ఎక్కువ. ప్రకాష్ యొక్క వయస్సు గణేష్ కంటే ఎక్కువ. అందరిలో పెద్ద వ్యక్తి ఎవరు?",
+      "gold": "విఘ్నేష్",
+      "pred": "వి ఘ్ నే ష్",
+      "em": 0,
+      "pm": 0,
+      "char_acc": 1.0,
+      "template_id": "t_transitive_largest",
+      "attribute": "age"
+    },
+    {
+      "prompt": "రాజు యొక్క వేగం 121 కి.మీ/గంట, రవీందర్ యొక్క వేగం 37 కి.మీ/గంట, విజయ్ యొక్క వేగం 38 కి.మీ/గంట. అందరిలో ఎక్కువ వేగం ఉన్న వ్యక్తి ఎవరు?",
+      "gold": "రాజు",
+      "pred": "రాజు",
+      "em": 1,
+      "pm": 1,
+      "char_acc": 1.0,
+      "template_id": "t_rank_three",
+      "attribute": "speed"
+    },
+    {
+      "prompt": "అభి యొక్క వేగం ముకేష్ కంటే ఎక్కువ. ముకేష్ యొక్క వేగం దినేష్ కంటే ఎక్కువ. దినేష్ యొక్క వేగం దుర్గ కంటే ఎక్కువ. అందరిలో అతిపెద్ద వేగం ఉన్న వ్యక్తి ఎవరు?",
+      "gold": "అభి",
+      "pred": "అభి",
+      "em": 1,
+      "pm": 1,
+      "char_acc": 1.0,
+      "template_id": "t_multihop_largest",
+      "attribute": "speed"
+    },
+    {
+      "prompt": "శైలజ యొక్క వయస్సు 51 సంవత్సరాలు. కాంత యొక్క వయస్సు 134 సంవత్సరాలు. ఎవరు వయస్సులో పెద్దవారు?",
+      "gold": "కాంత",
+      "pred": "శైల జ",
+      "em": 0,
+      "pm": 0,
+      "char_acc": 0.0,
+      "template_id": "t_direct_more",
+      "attribute": "age"
+    },
+    {
+      "prompt": "గణేష్ యొక్క వయస్సు 24 సంవత్సరాలు. శాంతి యొక్క వయస్సు 142 సంవత్సరాలు. ఎవరు వయస్సులో పెద్దవారు?",
+      "gold": "శాంతి",
+      "pred": "శాంతి",
+      "em": 1,
+      "pm": 1,
+      "char_acc": 1.0,
+      "template_id": "t_direct_more",
+      "attribute": "age"
+    }
+  ]
+}

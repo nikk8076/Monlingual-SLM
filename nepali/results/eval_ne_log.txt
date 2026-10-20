@@ -1,0 +1,49 @@
+Device: mps
+Test set: 400 examples
+
+Evaluating pretrained model...
+
+  --- Pretrained Successes ---
+
+  --- Pretrained Failures ---
+    Prompt: देव को मूल्य राहुल भन्दा बढी छ. राहुल को मूल्य कान्ता भन्दा बढी छ. सबभन्दा महँगो...
+    Gold:   देव.   Pred: ▁यो ▁सुन ▁को ▁मूल्य ▁को ▁मूल्य ▁को ▁मूल्य ▁को ▁मूल्य ▁को ▁मूल्य ▁को ▁मूल्य ▁को ▁मूल्य ▁को ▁मूल्य ▁को ▁मूल्य.
+    Prompt: विमला को तौल 35 किलोग्राम छ. अमर को तौल 50 किलोग्राम छ. को तौल बढी छ?...
+    Gold:   अमर.   Pred: ▁यो ▁एक ▁प्रकारको ▁हुन्छ ▁। ▁यो ▁एक ▁प्रकारको ▁हुन्छ ▁। ▁यो ▁एक ▁प्रकारको ▁हुन्छ ▁। ▁यो ▁एक ▁प्रकारको ▁हुन्छ ▁।.
+    Prompt: विमला को तौल 101 किलोग्राम, राहुल को तौल 28 किलोग्राम, स्वाति को तौल 96 किलोग्रा...
+    Gold:   विमला, स्वाति, राहुल.   Pred: ▁हाम्रो ▁बारे ▁हाम्रो ▁बारेमा ▁हाम्रो ▁बारेमा ▁हाम्रो ▁बारेमा ▁हाम्रो ▁बारेमा ▁हाम्रो ▁बारेमा ▁हाम्रो ▁बारेमा ▁हाम्रो ▁बारेमा ▁हाम्रो ▁बारेमा ▁हाम्रो ▁बारेमा.
+
+Pretrained metrics: {'model': 'pretrained', 'n_examples': 400, 'exact_match': 0.0, 'prefix_match': 0.0, 'mean_char_acc': 0.0041}
+
+Evaluating finetuned model...
+
+  --- Finetuned Successes ---
+
+  --- Finetuned Failures ---
+    Prompt: देव को मूल्य राहुल भन्दा बढी छ. राहुल को मूल्य कान्ता भन्दा बढी छ. सबभन्दा महँगो...
+    Gold:   देव.   Pred: ▁कृष्ण . ▁कृष्ण , ▁कृष्ण . ▁कृष्ण , ▁कृष्ण , ▁कृष्ण . ▁कृष्ण , ▁कृष्ण , ▁कृष्ण . ▁कृष्ण ,.
+    Prompt: विमला को तौल 35 किलोग्राम छ. अमर को तौल 50 किलोग्राम छ. को तौल बढी छ?...
+    Gold:   अमर.   Pred: ▁ब िनो . ▁ब िनो . ▁ब िनो . ▁ब िनो . ▁ब िनो . ▁ब िनो . ▁ब िनो.
+    Prompt: विमला को तौल 101 किलोग्राम, राहुल को तौल 28 किलोग्राम, स्वाति को तौल 96 किलोग्रा...
+    Gold:   विमला, स्वाति, राहुल.   Pred: ▁सं जय , ▁गी ता, ▁रमेश . ▁सं जय , ▁गी ता, ▁रमेश . ▁सं जय , ▁गी ता, ▁रमेश.
+
+Finetuned metrics: {'model': 'finetuned', 'n_examples': 400, 'exact_match': 0.0, 'prefix_match': 0.0, 'mean_char_acc': 0.0457}
+
+=== COMPARISON ===
+Metric                      Pretrained    Finetuned      Delta
+------------------------------------------------------------
+  exact_match                   0.0000       0.0000    +0.0000
+  prefix_match                  0.0000       0.0000    +0.0000
+  mean_char_acc                 0.0041       0.0457    +0.0416
+
+Per-template EM (finetuned):
+  t_direct_less                  pretrained=0.0000  finetuned=0.0000  n=64
+  t_direct_more                  pretrained=0.0000  finetuned=0.0000  n=62
+  t_multihop_largest             pretrained=0.0000  finetuned=0.0000  n=61
+  t_multihop_smallest            pretrained=0.0000  finetuned=0.0000  n=63
+  t_rank_three                   pretrained=0.0000  finetuned=0.0000  n=36
+  t_transitive_largest           pretrained=0.0000  finetuned=0.0000  n=38
+  t_transitive_relation          pretrained=0.0000  finetuned=0.0000  n=34
+  t_transitive_smallest          pretrained=0.0000  finetuned=0.0000  n=42
+
+Results saved to ../results/reasoning_eval

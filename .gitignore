@@ -1,0 +1,44 @@
+# Ignore raw training corpora (large)
+**/datasets/raw/
+**/datasets/train.txt
+**/datasets/*.txt
+
+# Allow reasoning JSONL datasets and eval results
+!**/datasets/reasoning/
+!**/datasets/reasoning/*.jsonl
+
+# Ignore model checkpoint files (very large)
+*.pth
+*.bin
+
+# Ignore tokenizer binary files
+tokenizer/
+
+# Ignore logs from training runs (intermediate)
+*.log
+*.log.*
+
+# Ignore Jupyter and Python cache files
+**/__pycache__/
+**/.ipynb_checkpoints/
+.DS_Store
+
+# Keep attention PNGs and eval JSONs in results/
+!**/results/
+!**/results/**/*.png
+!**/results/**/*.json
+staging_hf_upload/
+
+# Ignore LaTeX source files
+*.tex
+
+# Ignore scratch files and temporary folders
+scratch/
+
+# Ignore report folder and auxiliary report pdfs
+report/
+report_full.pdf
+report*.pdf
+*.synctex.gz
+*.aux
+*.out

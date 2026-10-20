@@ -1,0 +1,710 @@
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2342 (\N{DEVANAGARI LETTER DA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2357 (\N{DEVANAGARI LETTER VA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2325 (\N{DEVANAGARI LETTER KA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2350 (\N{DEVANAGARI LETTER MA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2354 (\N{DEVANAGARI LETTER LA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2351 (\N{DEVANAGARI LETTER YA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2352 (\N{DEVANAGARI LETTER RA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2361 (\N{DEVANAGARI LETTER HA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2349 (\N{DEVANAGARI LETTER BHA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2344 (\N{DEVANAGARI LETTER NA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2348 (\N{DEVANAGARI LETTER BA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2338 (\N{DEVANAGARI LETTER DDHA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2331 (\N{DEVANAGARI LETTER CHA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2340 (\N{DEVANAGARI LETTER TA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2360 (\N{DEVANAGARI LETTER SA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2327 (\N{DEVANAGARI LETTER GA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2342 (\N{DEVANAGARI LETTER DA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2357 (\N{DEVANAGARI LETTER VA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2325 (\N{DEVANAGARI LETTER KA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2350 (\N{DEVANAGARI LETTER MA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2354 (\N{DEVANAGARI LETTER LA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2351 (\N{DEVANAGARI LETTER YA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2352 (\N{DEVANAGARI LETTER RA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2361 (\N{DEVANAGARI LETTER HA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2349 (\N{DEVANAGARI LETTER BHA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2344 (\N{DEVANAGARI LETTER NA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2348 (\N{DEVANAGARI LETTER BA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2338 (\N{DEVANAGARI LETTER DDHA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2331 (\N{DEVANAGARI LETTER CHA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2340 (\N{DEVANAGARI LETTER TA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2360 (\N{DEVANAGARI LETTER SA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2327 (\N{DEVANAGARI LETTER GA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2342 (\N{DEVANAGARI LETTER DA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2357 (\N{DEVANAGARI LETTER VA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2325 (\N{DEVANAGARI LETTER KA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2350 (\N{DEVANAGARI LETTER MA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2354 (\N{DEVANAGARI LETTER LA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2351 (\N{DEVANAGARI LETTER YA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2352 (\N{DEVANAGARI LETTER RA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2361 (\N{DEVANAGARI LETTER HA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2349 (\N{DEVANAGARI LETTER BHA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2344 (\N{DEVANAGARI LETTER NA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2348 (\N{DEVANAGARI LETTER BA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2338 (\N{DEVANAGARI LETTER DDHA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2331 (\N{DEVANAGARI LETTER CHA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2340 (\N{DEVANAGARI LETTER TA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2360 (\N{DEVANAGARI LETTER SA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2327 (\N{DEVANAGARI LETTER GA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2342 (\N{DEVANAGARI LETTER DA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2357 (\N{DEVANAGARI LETTER VA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2325 (\N{DEVANAGARI LETTER KA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2350 (\N{DEVANAGARI LETTER MA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2354 (\N{DEVANAGARI LETTER LA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2351 (\N{DEVANAGARI LETTER YA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2352 (\N{DEVANAGARI LETTER RA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2361 (\N{DEVANAGARI LETTER HA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2349 (\N{DEVANAGARI LETTER BHA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2344 (\N{DEVANAGARI LETTER NA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2348 (\N{DEVANAGARI LETTER BA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2338 (\N{DEVANAGARI LETTER DDHA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2331 (\N{DEVANAGARI LETTER CHA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2340 (\N{DEVANAGARI LETTER TA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2360 (\N{DEVANAGARI LETTER SA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2327 (\N{DEVANAGARI LETTER GA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2342 (\N{DEVANAGARI LETTER DA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2357 (\N{DEVANAGARI LETTER VA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2325 (\N{DEVANAGARI LETTER KA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2350 (\N{DEVANAGARI LETTER MA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2354 (\N{DEVANAGARI LETTER LA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2351 (\N{DEVANAGARI LETTER YA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2352 (\N{DEVANAGARI LETTER RA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2361 (\N{DEVANAGARI LETTER HA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2349 (\N{DEVANAGARI LETTER BHA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2344 (\N{DEVANAGARI LETTER NA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2348 (\N{DEVANAGARI LETTER BA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2338 (\N{DEVANAGARI LETTER DDHA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2331 (\N{DEVANAGARI LETTER CHA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2340 (\N{DEVANAGARI LETTER TA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2360 (\N{DEVANAGARI LETTER SA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2327 (\N{DEVANAGARI LETTER GA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2342 (\N{DEVANAGARI LETTER DA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2357 (\N{DEVANAGARI LETTER VA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2325 (\N{DEVANAGARI LETTER KA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2350 (\N{DEVANAGARI LETTER MA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2354 (\N{DEVANAGARI LETTER LA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2351 (\N{DEVANAGARI LETTER YA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2352 (\N{DEVANAGARI LETTER RA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2361 (\N{DEVANAGARI LETTER HA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2349 (\N{DEVANAGARI LETTER BHA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2344 (\N{DEVANAGARI LETTER NA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2348 (\N{DEVANAGARI LETTER BA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2338 (\N{DEVANAGARI LETTER DDHA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2331 (\N{DEVANAGARI LETTER CHA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2340 (\N{DEVANAGARI LETTER TA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2360 (\N{DEVANAGARI LETTER SA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2327 (\N{DEVANAGARI LETTER GA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2342 (\N{DEVANAGARI LETTER DA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2357 (\N{DEVANAGARI LETTER VA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2325 (\N{DEVANAGARI LETTER KA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2350 (\N{DEVANAGARI LETTER MA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2354 (\N{DEVANAGARI LETTER LA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2351 (\N{DEVANAGARI LETTER YA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2352 (\N{DEVANAGARI LETTER RA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2361 (\N{DEVANAGARI LETTER HA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2349 (\N{DEVANAGARI LETTER BHA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2344 (\N{DEVANAGARI LETTER NA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2348 (\N{DEVANAGARI LETTER BA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2338 (\N{DEVANAGARI LETTER DDHA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2331 (\N{DEVANAGARI LETTER CHA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2340 (\N{DEVANAGARI LETTER TA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2360 (\N{DEVANAGARI LETTER SA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2327 (\N{DEVANAGARI LETTER GA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2342 (\N{DEVANAGARI LETTER DA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2357 (\N{DEVANAGARI LETTER VA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2325 (\N{DEVANAGARI LETTER KA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2350 (\N{DEVANAGARI LETTER MA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2354 (\N{DEVANAGARI LETTER LA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2351 (\N{DEVANAGARI LETTER YA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2352 (\N{DEVANAGARI LETTER RA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2361 (\N{DEVANAGARI LETTER HA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2349 (\N{DEVANAGARI LETTER BHA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2344 (\N{DEVANAGARI LETTER NA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2348 (\N{DEVANAGARI LETTER BA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2338 (\N{DEVANAGARI LETTER DDHA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2331 (\N{DEVANAGARI LETTER CHA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2340 (\N{DEVANAGARI LETTER TA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2360 (\N{DEVANAGARI LETTER SA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2327 (\N{DEVANAGARI LETTER GA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2357 (\N{DEVANAGARI LETTER VA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2350 (\N{DEVANAGARI LETTER MA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2354 (\N{DEVANAGARI LETTER LA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2325 (\N{DEVANAGARI LETTER KA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2340 (\N{DEVANAGARI LETTER TA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2327 (\N{DEVANAGARI LETTER GA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2352 (\N{DEVANAGARI LETTER RA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2331 (\N{DEVANAGARI LETTER CHA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2309 (\N{DEVANAGARI LETTER A}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2348 (\N{DEVANAGARI LETTER BA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2338 (\N{DEVANAGARI LETTER DDHA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2357 (\N{DEVANAGARI LETTER VA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2350 (\N{DEVANAGARI LETTER MA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2354 (\N{DEVANAGARI LETTER LA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2325 (\N{DEVANAGARI LETTER KA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2340 (\N{DEVANAGARI LETTER TA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2327 (\N{DEVANAGARI LETTER GA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2352 (\N{DEVANAGARI LETTER RA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2331 (\N{DEVANAGARI LETTER CHA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2309 (\N{DEVANAGARI LETTER A}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2348 (\N{DEVANAGARI LETTER BA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2338 (\N{DEVANAGARI LETTER DDHA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2357 (\N{DEVANAGARI LETTER VA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2350 (\N{DEVANAGARI LETTER MA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2354 (\N{DEVANAGARI LETTER LA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2325 (\N{DEVANAGARI LETTER KA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2340 (\N{DEVANAGARI LETTER TA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2327 (\N{DEVANAGARI LETTER GA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2352 (\N{DEVANAGARI LETTER RA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2331 (\N{DEVANAGARI LETTER CHA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2309 (\N{DEVANAGARI LETTER A}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2348 (\N{DEVANAGARI LETTER BA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2338 (\N{DEVANAGARI LETTER DDHA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2357 (\N{DEVANAGARI LETTER VA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2350 (\N{DEVANAGARI LETTER MA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2354 (\N{DEVANAGARI LETTER LA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2325 (\N{DEVANAGARI LETTER KA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2340 (\N{DEVANAGARI LETTER TA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2327 (\N{DEVANAGARI LETTER GA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2352 (\N{DEVANAGARI LETTER RA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2331 (\N{DEVANAGARI LETTER CHA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2309 (\N{DEVANAGARI LETTER A}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2348 (\N{DEVANAGARI LETTER BA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2338 (\N{DEVANAGARI LETTER DDHA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2357 (\N{DEVANAGARI LETTER VA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2350 (\N{DEVANAGARI LETTER MA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2354 (\N{DEVANAGARI LETTER LA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2325 (\N{DEVANAGARI LETTER KA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2340 (\N{DEVANAGARI LETTER TA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2327 (\N{DEVANAGARI LETTER GA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2352 (\N{DEVANAGARI LETTER RA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2331 (\N{DEVANAGARI LETTER CHA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2309 (\N{DEVANAGARI LETTER A}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2348 (\N{DEVANAGARI LETTER BA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2338 (\N{DEVANAGARI LETTER DDHA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2357 (\N{DEVANAGARI LETTER VA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2350 (\N{DEVANAGARI LETTER MA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2354 (\N{DEVANAGARI LETTER LA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2325 (\N{DEVANAGARI LETTER KA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2340 (\N{DEVANAGARI LETTER TA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2327 (\N{DEVANAGARI LETTER GA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2352 (\N{DEVANAGARI LETTER RA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2331 (\N{DEVANAGARI LETTER CHA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2309 (\N{DEVANAGARI LETTER A}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2348 (\N{DEVANAGARI LETTER BA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2338 (\N{DEVANAGARI LETTER DDHA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2357 (\N{DEVANAGARI LETTER VA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2350 (\N{DEVANAGARI LETTER MA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2354 (\N{DEVANAGARI LETTER LA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2325 (\N{DEVANAGARI LETTER KA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2340 (\N{DEVANAGARI LETTER TA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2327 (\N{DEVANAGARI LETTER GA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2352 (\N{DEVANAGARI LETTER RA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2331 (\N{DEVANAGARI LETTER CHA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2309 (\N{DEVANAGARI LETTER A}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2348 (\N{DEVANAGARI LETTER BA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2338 (\N{DEVANAGARI LETTER DDHA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2357 (\N{DEVANAGARI LETTER VA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2350 (\N{DEVANAGARI LETTER MA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2354 (\N{DEVANAGARI LETTER LA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2325 (\N{DEVANAGARI LETTER KA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2340 (\N{DEVANAGARI LETTER TA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2327 (\N{DEVANAGARI LETTER GA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2352 (\N{DEVANAGARI LETTER RA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2331 (\N{DEVANAGARI LETTER CHA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2309 (\N{DEVANAGARI LETTER A}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2348 (\N{DEVANAGARI LETTER BA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2338 (\N{DEVANAGARI LETTER DDHA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2357 (\N{DEVANAGARI LETTER VA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2350 (\N{DEVANAGARI LETTER MA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2354 (\N{DEVANAGARI LETTER LA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2325 (\N{DEVANAGARI LETTER KA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2340 (\N{DEVANAGARI LETTER TA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2327 (\N{DEVANAGARI LETTER GA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2352 (\N{DEVANAGARI LETTER RA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2361 (\N{DEVANAGARI LETTER HA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2360 (\N{DEVANAGARI LETTER SA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2331 (\N{DEVANAGARI LETTER CHA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2348 (\N{DEVANAGARI LETTER BA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2338 (\N{DEVANAGARI LETTER DDHA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2342 (\N{DEVANAGARI LETTER DA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2326 (\N{DEVANAGARI LETTER KHA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2344 (\N{DEVANAGARI LETTER NA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2357 (\N{DEVANAGARI LETTER VA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2350 (\N{DEVANAGARI LETTER MA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2354 (\N{DEVANAGARI LETTER LA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2325 (\N{DEVANAGARI LETTER KA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2340 (\N{DEVANAGARI LETTER TA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2327 (\N{DEVANAGARI LETTER GA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2352 (\N{DEVANAGARI LETTER RA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2361 (\N{DEVANAGARI LETTER HA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2360 (\N{DEVANAGARI LETTER SA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2331 (\N{DEVANAGARI LETTER CHA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2348 (\N{DEVANAGARI LETTER BA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2338 (\N{DEVANAGARI LETTER DDHA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2342 (\N{DEVANAGARI LETTER DA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2326 (\N{DEVANAGARI LETTER KHA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2344 (\N{DEVANAGARI LETTER NA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2357 (\N{DEVANAGARI LETTER VA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2350 (\N{DEVANAGARI LETTER MA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2354 (\N{DEVANAGARI LETTER LA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2325 (\N{DEVANAGARI LETTER KA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2340 (\N{DEVANAGARI LETTER TA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2327 (\N{DEVANAGARI LETTER GA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2352 (\N{DEVANAGARI LETTER RA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2361 (\N{DEVANAGARI LETTER HA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2360 (\N{DEVANAGARI LETTER SA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2331 (\N{DEVANAGARI LETTER CHA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2348 (\N{DEVANAGARI LETTER BA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2338 (\N{DEVANAGARI LETTER DDHA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2342 (\N{DEVANAGARI LETTER DA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2326 (\N{DEVANAGARI LETTER KHA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2344 (\N{DEVANAGARI LETTER NA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2357 (\N{DEVANAGARI LETTER VA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2350 (\N{DEVANAGARI LETTER MA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2354 (\N{DEVANAGARI LETTER LA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2325 (\N{DEVANAGARI LETTER KA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2340 (\N{DEVANAGARI LETTER TA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2327 (\N{DEVANAGARI LETTER GA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2352 (\N{DEVANAGARI LETTER RA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2361 (\N{DEVANAGARI LETTER HA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2360 (\N{DEVANAGARI LETTER SA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2331 (\N{DEVANAGARI LETTER CHA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2348 (\N{DEVANAGARI LETTER BA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2338 (\N{DEVANAGARI LETTER DDHA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2342 (\N{DEVANAGARI LETTER DA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2326 (\N{DEVANAGARI LETTER KHA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2344 (\N{DEVANAGARI LETTER NA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2357 (\N{DEVANAGARI LETTER VA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2350 (\N{DEVANAGARI LETTER MA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2354 (\N{DEVANAGARI LETTER LA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2325 (\N{DEVANAGARI LETTER KA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2340 (\N{DEVANAGARI LETTER TA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2327 (\N{DEVANAGARI LETTER GA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2352 (\N{DEVANAGARI LETTER RA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2361 (\N{DEVANAGARI LETTER HA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2360 (\N{DEVANAGARI LETTER SA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2331 (\N{DEVANAGARI LETTER CHA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2348 (\N{DEVANAGARI LETTER BA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2338 (\N{DEVANAGARI LETTER DDHA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2342 (\N{DEVANAGARI LETTER DA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2326 (\N{DEVANAGARI LETTER KHA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2344 (\N{DEVANAGARI LETTER NA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2357 (\N{DEVANAGARI LETTER VA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2350 (\N{DEVANAGARI LETTER MA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2354 (\N{DEVANAGARI LETTER LA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2325 (\N{DEVANAGARI LETTER KA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2340 (\N{DEVANAGARI LETTER TA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2327 (\N{DEVANAGARI LETTER GA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2352 (\N{DEVANAGARI LETTER RA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2361 (\N{DEVANAGARI LETTER HA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2360 (\N{DEVANAGARI LETTER SA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2331 (\N{DEVANAGARI LETTER CHA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2348 (\N{DEVANAGARI LETTER BA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2338 (\N{DEVANAGARI LETTER DDHA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2342 (\N{DEVANAGARI LETTER DA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2326 (\N{DEVANAGARI LETTER KHA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2344 (\N{DEVANAGARI LETTER NA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2357 (\N{DEVANAGARI LETTER VA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2350 (\N{DEVANAGARI LETTER MA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2354 (\N{DEVANAGARI LETTER LA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2325 (\N{DEVANAGARI LETTER KA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2340 (\N{DEVANAGARI LETTER TA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2327 (\N{DEVANAGARI LETTER GA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2352 (\N{DEVANAGARI LETTER RA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2361 (\N{DEVANAGARI LETTER HA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2360 (\N{DEVANAGARI LETTER SA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2331 (\N{DEVANAGARI LETTER CHA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2348 (\N{DEVANAGARI LETTER BA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2338 (\N{DEVANAGARI LETTER DDHA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2342 (\N{DEVANAGARI LETTER DA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2326 (\N{DEVANAGARI LETTER KHA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:180: UserWarning: Glyph 2344 (\N{DEVANAGARI LETTER NA}) missing from font(s) DejaVu Sans.
+  plt.tight_layout()
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2357 (\N{DEVANAGARI LETTER VA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2350 (\N{DEVANAGARI LETTER MA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2354 (\N{DEVANAGARI LETTER LA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2325 (\N{DEVANAGARI LETTER KA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2340 (\N{DEVANAGARI LETTER TA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2327 (\N{DEVANAGARI LETTER GA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2352 (\N{DEVANAGARI LETTER RA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2361 (\N{DEVANAGARI LETTER HA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2360 (\N{DEVANAGARI LETTER SA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2331 (\N{DEVANAGARI LETTER CHA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2348 (\N{DEVANAGARI LETTER BA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2338 (\N{DEVANAGARI LETTER DDHA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2342 (\N{DEVANAGARI LETTER DA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2326 (\N{DEVANAGARI LETTER KHA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+/Users/nikhilsai/Documents/Courses/LMA/SelfProject/individual-project-nikk8076/nepali/code/compare_attention.py:181: UserWarning: Glyph 2344 (\N{DEVANAGARI LETTER NA}) missing from font(s) DejaVu Sans.
+  plt.savefig(out_path, dpi=150, bbox_inches="tight")
+Loading pretrained model...
+Loading finetuned model...
+
+Processing prompt 1: देव को मूल्य राहुल भन्दा बढी छ. राहुल को मूल्य कान्ता भन्दा ...
+  Saved: ../results/attention_comparison/prompt1_early_head1.png
+  Saved: ../results/attention_comparison/prompt1_early_head2.png
+  Saved: ../results/attention_comparison/prompt1_late_head1.png
+  Saved: ../results/attention_comparison/prompt1_late_head2.png
+  Saved: ../results/attention_comparison/prompt1_entropy_comparison.png
+  Saved: ../results/attention_comparison/prompt1_distance_comparison.png
+
+Processing prompt 2: विमला को तौल 35 किलोग्राम छ. अमर को तौल 50 किलोग्राम छ. को त...
+  Saved: ../results/attention_comparison/prompt2_early_head1.png
+  Saved: ../results/attention_comparison/prompt2_early_head2.png
+  Saved: ../results/attention_comparison/prompt2_late_head1.png
+  Saved: ../results/attention_comparison/prompt2_late_head2.png
+  Saved: ../results/attention_comparison/prompt2_entropy_comparison.png
+  Saved: ../results/attention_comparison/prompt2_distance_comparison.png
+
+Processing prompt 3: विमला को तौल 101 किलोग्राम, राहुल को तौल 28 किलोग्राम, स्वात...
+  Saved: ../results/attention_comparison/prompt3_early_head1.png
+  Saved: ../results/attention_comparison/prompt3_early_head2.png
+  Saved: ../results/attention_comparison/prompt3_late_head1.png
+  Saved: ../results/attention_comparison/prompt3_late_head2.png
+  Saved: ../results/attention_comparison/prompt3_entropy_comparison.png
+  Saved: ../results/attention_comparison/prompt3_distance_comparison.png
+
+Stats saved to ../results/attention_comparison/attention_stats.json
+
+=== Attention Stats Summary ===
+Layer       Pre Entropy     FT Entropy     Pre Dist      FT Dist
+-----------------------------------------------------------------
+  1               0.7996          0.7936        2.7090        3.0174
+  2               1.4004          1.3642        4.2872        4.4276
+  3               1.0511          0.9895        2.9368        2.9349
+  4               1.3845          1.1586        3.5033        4.6892
+  5               1.4285          0.9394        4.0111        6.6139
+  6               1.3516          0.9454        5.0080        6.7930
